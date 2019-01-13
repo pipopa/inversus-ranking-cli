@@ -1,0 +1,11 @@
+[package]
+name = "inversus_ranking"
+version = "0.1.0"
+authors = ["pipopa <pipopa.710@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.2.0"
+reqwest = "0.9.7"
+select = "0.4.2"
+clap = "2.20.3"
